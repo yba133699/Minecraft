@@ -1,0 +1,30 @@
+name: WarBuild
+version: 1.0
+author: aqvn
+main: ch.yannic.warbuild.main.Main
+   
+commands:
+   setspawn:
+   spawn:
+   build:
+   Heal:
+   Fly:
+   Teleport:
+      aliases: [tp]
+   Teleporthere:
+      aliases: [tphere]
+   Gamemode:
+      aliases: [gm]
+   Teleportall:
+      aliases: [tpall]
+   Enderchest:
+      aliases: [ec]
+   Invsee:
+   Vanish:
+      aliases: [v]
+   Setwarp:
+   Kit:
+   repair:
+      aliases: [fix]
+   stack:
+   setpermission:
