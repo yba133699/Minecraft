@@ -1,0 +1,6 @@
+name: Heal
+version: 1.0
+author: aqvn
+main: ch.yannic.spigotmc.main.Main
+commands:
+   heal:
