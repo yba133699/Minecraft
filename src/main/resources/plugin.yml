@@ -1,0 +1,11 @@
+name: SurvivalPlugin
+version: '${project.version}'
+main: ch.yannic.survivalplugin.SurvivalPlugin
+api-version: '1.20'
+commands:
+  enderchest:
+    usage: /enderchest
+  heal:
+  god:
+  tp:
+  gm:
